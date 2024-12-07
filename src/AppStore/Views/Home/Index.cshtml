@@ -1,0 +1,72 @@
+@model AppStore.Models.DTO.ProductoListVm;
+@{
+  Layout = "_Layout";
+}
+
+<div class="container">
+  <section class="search-bar">
+    <form>
+      <input type="text" placeholder="buscar Producto">
+      <button type="submit"><i class="fa fa-search"></i></button>
+    </form>
+  </section>
+
+
+
+
+
+
+
+
+  <section class="movies">
+
+    @foreach(var Producto in Model.ProductoList!){
+     
+      <div class="movie-card" onclick= "window.location.href='/Home/ProductoDetail?ProductoId=@Producto.id'">
+      <div class="movie-image">
+        <img src="Upload/@Producto.Imagen" width="200" height="300">
+      </div>
+      <div class="movie-info">
+        <h4>@Producto.titulo</h4>
+        <h4>@Producto.Precio</h4>
+        <h4>@Producto.CategoriaNombres</h4>
+        <h4>@Producto.CreateDate</h4>
+      </div>
+    </div>
+
+    }
+    
+    
+
+
+   
+
+
+    
+  </section>
+
+    
+
+
+    
+
+
+  
+
+
+
+
+
+
+
+  <div class="pagination">
+    <a href="#">&laquo;</a>
+    <a href="#">1</a>
+    <a class="active" href="#">2</a>
+    <a href="#">3</a>
+    <a href="#">4</a>
+    <a href="#">5</a>
+    <a href="#">6</a>
+    <a href="#">&raquo;</a>
+  </div>
+</div>

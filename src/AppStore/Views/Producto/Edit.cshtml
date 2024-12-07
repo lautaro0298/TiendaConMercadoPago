@@ -1,0 +1,74 @@
+@model AppStore.Models.Domain.Producto
+
+@{
+}
+<div>
+<form class="w-40" asp-action="Edit" method="post" enctype="multipart/form-data">
+    <h2>
+        Actualizar Producto
+    </h2>
+    <input type="hidden" class="input" asp-for="id">
+    <input type="hidden" class="input" asp-for="Imagen">
+    <div class="input-container">
+        <label asp-for="titulo" class="w-40">Titulo</label>
+        <input type="text" class="input" asp-for="titulo">
+    </div>
+        <div class="input-container">
+            <label asp-for="Precio" class="w-40">Precio</label>
+            <input type="text" class="input" asp-for="Precio">
+        </div>
+        <div class="messege-box pd-x-28 error">
+            <span asp-validation-for="Precio"></span>
+        </div>
+    <div class="messege-box pd-x-28 error">
+        <span asp-validation-for="titulo"></span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="Autor" class="w-40">Autor</label>
+        <input type="text" class="input" asp-for="Autor">
+    </div>
+
+    <div class="messege-box pd-x-28 error">
+        <span asp-validation-for="Autor"></span>
+    </div>
+    <div class="input-container">
+        <label asp-for="ImagenFile" class="w-40">Imagen</label>
+        <input type="file" class="input" asp-for="ImagenFile">
+    </div>
+
+    <div class="messege-box pd-x-28 error">
+        <span asp-validation-for="ImagenFile"></span>
+    </div>
+    <div class="input-container">
+        <label asp-for="categorias" class="w-40">Categorias</label>
+        <select asp-items="Model.MultiCategoriaList" class="input" asp-for="categorias" multiple>
+            <option value="">---Seleccionar </option>
+        </select>
+    </div>
+
+    <div class="messege-box pd-x-28 error">
+        <span asp-validation-for="categorias"></span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="CreateDate" class="w-40">Fecha Publicacion</label>
+           <input type="text" class="input" asp-for="CreateDate">
+    </div>
+
+    <div class="messege-box pd-x-28 error">
+        <span asp-validation-for="CreateDate"></span>
+    </div>
+    @if(TempData["Msg"]!=null){
+        <div class="alert-mb1">
+            @TempData["Msg"]
+        </div>
+    }
+    <div class="input-continer">
+        <button class="btn btn-default">Guardar</button>
+        <a class="btn btn-sec" href="/Producto/ProductoList">Ver todo</a>
+
+    </div>
+
+</form>
+</div>

@@ -1,0 +1,42 @@
+
+@model AppStore.Models.DTO.ProductoListVm
+@{
+    
+}
+
+<div class="tbl-container">
+    <h2>
+        Administracion de Productos
+    </h2>
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Precio</th>
+            <th>Genero</th>
+            <th>Fecha de publicacion</th>
+            <th>Imagen</th>
+            <th>Autor</th>
+            <th>Accion</th>
+        </tr>
+        @foreach(var item in Model.ProductoList!){
+            <tr>
+                <td>@item.titulo</td>
+                <td>@item.Precio</td>
+                <td>@item.CategoriaNombres</td>
+                <td>@item.CreateDate</td>
+                <td><img style="height:60px;width:80px;" src="/Upload/@item.Imagen" ></td>
+                <td>@item.Autor</td>
+                <td>
+                    <a href="/Producto/Edit?id=@item.id" class="btn btn-default">
+                    <i class="fa fa-edit"></i></a>
+                     <a href="/Producto/Delete?id=@item.id" onclick="return window.confirm(´Estas seguro?´)" class="btn btn-danger">
+                    <i class="fa fa-trash"></i></a>
+                </td>
+                            </tr>
+
+        }
+    </table>
+    <div class="input-container">
+        <a href="/Producto/Add" class="btn btn-sec"></a>
+    </div>
+     </div>

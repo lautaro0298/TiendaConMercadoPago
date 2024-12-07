@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\views\\producto\\productolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\views\\producto\\productolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\views\\producto\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\views\\producto\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\views\\home\\productodetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\views\\home\\productodetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\models\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\models\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\models\\domain\\loaddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\models\\domain\\loaddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207221134_Add2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AppStore\\Migrations\\20241207221134_Add2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\models\\domain\\productocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\models\\domain\\productocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207214437_Add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AppStore\\Migrations\\20241207214437_Add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\views\\categoria\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\views\\categoria\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207222127_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AppStore\\Migrations\\20241207222127_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\models\\domain\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\models\\domain\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\models\\domain\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\models\\domain\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207203430_AddPrecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AppStore\\Migrations\\20241207203430_AddPrecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|c:\\users\\administrador\\source\\bootcampc-\\bootcamp c#\\aspnet\\src\\appstore\\appstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3051A7C0-235B-42F2-8BD1-0B9C6DD25249}|src\\AppStore\\AppStore.csproj|solutionrelative:src\\appstore\\appstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207192406_CambioAProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AppStore\\Migrations\\20241207192406_CambioAProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Producto\\ProductoList.cshtml",
+              "RelativeDocumentMoniker": "src\\AppStore\\Views\\Producto\\ProductoList.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Producto\\ProductoList.cshtml",
+              "RelativeToolTip": "src\\AppStore\\Views\\Producto\\ProductoList.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T23:03:41.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\AppStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\AppStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAWwB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T22:59:57.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\LoadDatabase.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Models\\Domain\\LoadDatabase.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\LoadDatabase.cs",
+              "RelativeToolTip": "src\\AppStore\\Models\\Domain\\LoadDatabase.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:13:18.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241207221134_Add2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207221134_Add2.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Migrations\\20241207221134_Add2.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207221134_Add2.cs",
+              "RelativeToolTip": "src\\AppStore\\Migrations\\20241207221134_Add2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:11:34.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Program.cs",
+              "RelativeToolTip": "src\\AppStore\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:47:51.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AppStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\appsettings.json",
+              "RelativeToolTip": "src\\AppStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T19:48:07.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Home\\ProductoDetail.cshtml",
+              "RelativeDocumentMoniker": "src\\AppStore\\Views\\Home\\ProductoDetail.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Home\\ProductoDetail.cshtml",
+              "RelativeToolTip": "src\\AppStore\\Views\\Home\\ProductoDetail.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T23:01:01.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Producto\\Add.cshtml",
+              "RelativeDocumentMoniker": "src\\AppStore\\Views\\Producto\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Producto\\Add.cshtml",
+              "RelativeToolTip": "src\\AppStore\\Views\\Producto\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T23:02:02.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\AppStore\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "src\\AppStore\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T23:03:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\ProductoCategoria.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Models\\Domain\\ProductoCategoria.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\ProductoCategoria.cs",
+              "RelativeToolTip": "src\\AppStore\\Models\\Domain\\ProductoCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:11:05.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Categoria\\Add.cshtml",
+              "RelativeDocumentMoniker": "src\\AppStore\\Views\\Categoria\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Views\\Categoria\\Add.cshtml",
+              "RelativeToolTip": "src\\AppStore\\Views\\Categoria\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T22:10:26.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\Producto.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Models\\Domain\\Producto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\Producto.cs",
+              "RelativeToolTip": "src\\AppStore\\Models\\Domain\\Producto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:30:09.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241207222127_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207222127_inicial.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Migrations\\20241207222127_inicial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207222127_inicial.cs",
+              "RelativeToolTip": "src\\AppStore\\Migrations\\20241207222127_inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:21:28.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241207214437_Add.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207214437_Add.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Migrations\\20241207214437_Add.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207214437_Add.cs",
+              "RelativeToolTip": "src\\AppStore\\Migrations\\20241207214437_Add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:44:38.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Models\\Domain\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "src\\AppStore\\Models\\Domain\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:43:03.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\Categoria.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Models\\Domain\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\Categoria.cs",
+              "RelativeToolTip": "src\\AppStore\\Models\\Domain\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:43:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Models\\Domain\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Models\\Domain\\DatabaseContext.cs",
+              "RelativeToolTip": "src\\AppStore\\Models\\Domain\\DatabaseContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:43:12.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserAuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Controllers\\UserAuthenticationController.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Controllers\\UserAuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Controllers\\UserAuthenticationController.cs",
+              "RelativeToolTip": "src\\AppStore\\Controllers\\UserAuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:42:50.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241207203430_AddPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207203430_AddPrecio.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Migrations\\20241207203430_AddPrecio.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207203430_AddPrecio.cs",
+              "RelativeToolTip": "src\\AppStore\\Migrations\\20241207203430_AddPrecio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:34:30.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppStore",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj",
+              "RelativeDocumentMoniker": "src\\AppStore\\AppStore.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj",
+              "RelativeToolTip": "src\\AppStore\\AppStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T20:34:01.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241207192406_CambioAProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207192406_CambioAProducto.cs",
+              "RelativeDocumentMoniker": "src\\AppStore\\Migrations\\20241207192406_CambioAProducto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\Migrations\\20241207192406_CambioAProducto.cs",
+              "RelativeToolTip": "src\\AppStore\\Migrations\\20241207192406_CambioAProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:24:06.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
